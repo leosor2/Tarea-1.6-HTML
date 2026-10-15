@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="300" viewBox="0 0 600 300">
+  <rect width="600" height="300" fill="#bde0fe"/>
+  <circle cx="470" cy="65" r="35" fill="#ffd166"/>
+  <path d="M0 230 L160 70 L320 230 Z" fill="#6a994e"/>
+  <path d="M180 230 L390 95 L600 230 Z" fill="#386641"/>
+  <rect y="230" width="600" height="70" fill="#a7c957"/>
+  <text x="300" y="275" font-size="22" text-anchor="middle" fill="#ffffff">Un paisaje tranquilo</text>
+</svg>
