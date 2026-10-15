@@ -1,0 +1,5 @@
+Documento de prueba de la Tarea 1.6.
+
+Este archivo se utiliza para comprobar el atributo download de HTML.
+
+La descarga funciona desde el repositorio de la práctica.
